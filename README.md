@@ -11,6 +11,12 @@ My daily tasks include analyzing requirements, performing feasibility study, des
 - Data Analyst roles where I can put forward my learning experience.
 - Machine learning projects
 - Research oriented projects
+### Summary of my project works
+### SQL
+| Project Link | Tools Used | Area of Analysis | Project Description | 
+|-----|---|---|---|
+|[Sales](https://github.com/Praneetha-reddy/Product_Analytics)(click icon to view)| Google BigQuery | RFM Analysis | Used SQL to perform RFM analysis on Sales data to segment customers and provide efficient marketing strategies to target the relevant audience. |
+
 
 ## Skills:
 #### Languages:
