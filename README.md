@@ -12,10 +12,11 @@ My daily tasks include analyzing requirements, performing feasibility study, des
 - Machine learning projects
 - Research oriented projects
 ### Summary of my project works
-### SQL
+
 | Project Link | Tools Used | Area of Analysis | Project Description | 
 |-----|---|---|---|
-|[Sales](https://github.com/Praneetha-reddy/Product_Analytics)(click icon to view)| Google BigQuery | RFM Analysis | Used SQL to perform RFM analysis on Sales data to segment customers and provide efficient marketing strategies to target the relevant audience. |
+|[Sales](https://github.com/Praneetha-reddy/Product_Analytics)| Google BigQuery | RFM Analysis | Used SQL to perform RFM analysis on Sales data to segment customers and provide efficient marketing strategies to target the relevant audience. |
+|[OLA_Ensemble_Learning](https://github.com/Praneetha-reddy/OLA_Ensemble-Learning)| Colab notebook, Python, NumPy, Pandas, Seaborn, Matplotlib, stats, scikit-learn | Exploratory data analysis, Data Visualization, Hypothesis testing, Outlier treatment, Data preprocessing, Model implementation | Used algorithms like Decision tree classifier, Random forest tree, Gradient boosting decision tree, XGBoost, LightGBM to Predict whether a driver will be leaving the company or not by using attributes like demographics, tenure, and historical data(past performance of the driver).|
 
 
 ## Skills:
