@@ -1,49 +1,23 @@
 ## Hi there, I'm Praneetha Puchalapalli
 
-Currently, I am working as a Software Engineer(Frontend) in Toshiba Software India Private Limited. Alongside, I am learning Data Science and Machine learning concepts and solved few business case studies. I love doing in-depth data analysis to figure out the hidden patterns in the data using various Mathematical tools and Python libraries. I am very curious to learn how mathematics solve machine learning problems. Still learning is in progress!
+### Software Development Engineer (Frontend) | 3.5 Years of Experience
+I am a product-focused engineer passionate about **building scalable, user-friendly applications** and diving deep into **architectural design patterns**.
 
- **Experience**
+Currently, I am the **Sole Frontend Engineer** for my team at **Toshiba**, where I own the entire UI lifecycle—from architectural decisions to deployment. I specialize in refactoring legacy codebases into modern, performant React applications.
 
-I have been working in IT field Since August 2022. As a Frontend Engineer, I have good hands-on experience working with JavaScript, and React framework. 
-My daily tasks include analyzing requirements, performing feasibility study, designing UI pages, developing code, writing unit test cases and deploying it. Hence, I have good exposure on end-to-end process.
+### Tech Stack & Arsenal
+* **Core:** JavaScript (ES6+), React.js, HTML5, CSS3/SASS.
+* **Backend & Architecture:** Node.js, Express, Java, System Design (LLD/HLD).
+* **Data & Tools:** MongoDB, Git, Webpack, Babel.
+* **Problem Solving:** LeetCode (Top 21% & Climbing).
 
-**I am open to**
-- Data Analyst roles where I can put forward my learning experience.
-- Machine learning projects
-- Research oriented projects
-### Summary of my project works
-
-| Project Link | Tools Used | Area of Analysis | Project Description | 
-|-----|---|---|---|
-|[Sales](https://github.com/Praneetha-reddy/Product_Analytics)| Google BigQuery | RFM Analysis | Used SQL to perform RFM analysis on Sales data to segment customers and provide efficient marketing strategies to target the relevant audience. |
-|[OLA_Ensemble_Learning](https://github.com/Praneetha-reddy/OLA_Ensemble-Learning)| Colab notebook, Python, NumPy, Pandas, Seaborn, Matplotlib, stats, scikit-learn | Exploratory data analysis, Data Visualization, Hypothesis testing, Outlier treatment, Data preprocessing, Model implementation | Used algorithms like Decision tree classifier, Random forest tree, Gradient boosting decision tree, XGBoost, LightGBM to Predict whether a driver will be leaving the company or not by using attributes like demographics, tenure, and historical data(past performance of the driver).|
-
-
-## Skills:
-#### Languages:
-![Static Badge](https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-yellow?style=for-the-badge&logoColor=white)
-
-
-#### Machine Learning:
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-#### IDEs
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Static Badge](https://img.shields.io/badge/BigQuery-blue?style=for-the-badge&logo=googlebigquery)
-
-#### Other Skills
-![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Statistics](https://img.shields.io/badge/statistics-%233F4F75.svg?style=for-the-badge)&nbsp;
-![Linear_Algebra](https://img.shields.io/badge/linearalgebra-%23FA0F00.svg?style=for-the-badge)&nbsp;
-![Product_Analytics](https://img.shields.io/badge/Product_Analytics-%23F7931E.svg?style=for-the-badge)&nbsp;
-
-
+### Specialized Skills (The "T-Shaped" Engineer)
+* **Frontend Core:** React.js, Redux, Performance Optimization.
+* **Data Intelligence:** Machine Learning (Python/Pandas), Data Visualization, and Statistical Analysis.
+* **Why this matters:** I bridge the gap between Data Science teams and UI implementation, ensuring complex analytics are rendered performantly.
+  
+ **You can find me here**
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](YOUR_LINKEDIN_URL) &nbsp; [<img src="https://img.shields.io/badge/LeetCode-Top%2021%25-orange?style=for-the-badge&logo=LeetCode&logoColor=white" />](YOUR_LEETCODE_PROFILE_LINK)
 
 
 
