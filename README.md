@@ -17,7 +17,7 @@ Currently, I am the **Sole Frontend Engineer** for my team at **Toshiba**, where
 * **Why this matters:** I bridge the gap between Data Science teams and UI implementation, ensuring complex analytics are rendered performantly.
   
  **You can find me here**
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](YOUR_LINKEDIN_URL) &nbsp; [<img src="https://img.shields.io/badge/LeetCode-Top%2021%25-orange?style=for-the-badge&logo=LeetCode&logoColor=white" />](YOUR_LEETCODE_PROFILE_LINK)
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](YOUR_LINKEDIN_URL) &nbsp; [<img src="https://img.shields.io/badge/LeetCode-Top%2021%25-orange?style=for-the-badge&logo=LeetCode&logoColor=white" />](https://leetcode.com/u/praneetha_reddy07/)
 
 
 
